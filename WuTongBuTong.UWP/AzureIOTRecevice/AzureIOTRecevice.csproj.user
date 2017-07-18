@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Source>C:\Users\naris\Desktop\彩色假期花环矢量素材.ai</Source>
+    <SmallTileSource>C:\Users\naris\Desktop\彩色假期花环矢量素材.ai</SmallTileSource>
+    <MediumTileSource>C:\Users\naris\Desktop\彩色假期花环矢量素材.ai</MediumTileSource>
+    <WideTileSource>C:\Users\naris\Desktop\彩色假期花环矢量素材.ai</WideTileSource>
+    <LargeTileSource>C:\Users\naris\Desktop\彩色假期花环矢量素材.ai</LargeTileSource>
+    <AppIconSource>C:\Users\naris\Desktop\2017-07-16-185100.png</AppIconSource>
+    <SplashScreenSource>C:\Users\naris\Desktop\2017-07-16-185100.png</SplashScreenSource>
+    <BadgeLogoSource>C:\Users\naris\Desktop\2017-07-16-185100.png</BadgeLogoSource>
+    <PackageLogoSource>C:\Users\naris\Desktop\2017-07-16-185100.png</PackageLogoSource>
+    <AppxPackageIsForStore>True</AppxPackageIsForStore>
+    <AppxShowAllApps>False</AppxShowAllApps>
+    <AppxBuildConfigurationSelection>x86|x64|arm</AppxBuildConfigurationSelection>
+    <PackageOptionalProjectsInIdeBuilds>False</PackageOptionalProjectsInIdeBuilds>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM'">
+    <DeviceId>30F105C9-681E-420b-A277-7C086EAD8A4E</DeviceId>
+    <UseEmulator>true</UseEmulator>
+  </PropertyGroup>
+</Project>

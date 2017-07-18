@@ -1,0 +1,1 @@
+C:\Users\naris\documents\visual studio 2017\Projects\AzureIOTRecevice\AzureIOTRecevice\bin\ARM\Release\Upload\AzureIOTRecevice_1.1.2.0\AzureIOTRecevice_1.1.2.0_x86_x64_arm.appxbundle
