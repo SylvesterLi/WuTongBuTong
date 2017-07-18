@@ -1,0 +1,16 @@
+C:\Users\Sylvester\documents\visual studio 2017\Projects\IoTHubGetStarted\ReadDeviceToCloudMessages\bin\Debug\ReadDeviceToCloudMessages.exe.config
+C:\Users\Sylvester\documents\visual studio 2017\Projects\IoTHubGetStarted\ReadDeviceToCloudMessages\bin\Debug\ReadDeviceToCloudMessages.exe
+C:\Users\Sylvester\documents\visual studio 2017\Projects\IoTHubGetStarted\ReadDeviceToCloudMessages\bin\Debug\ReadDeviceToCloudMessages.pdb
+C:\Users\Sylvester\documents\visual studio 2017\Projects\IoTHubGetStarted\ReadDeviceToCloudMessages\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\Sylvester\documents\visual studio 2017\Projects\IoTHubGetStarted\ReadDeviceToCloudMessages\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\Sylvester\documents\visual studio 2017\Projects\IoTHubGetStarted\ReadDeviceToCloudMessages\obj\Debug\ReadDeviceToCloudMessages.csprojResolveAssemblyReference.cache
+C:\Users\Sylvester\documents\visual studio 2017\Projects\IoTHubGetStarted\ReadDeviceToCloudMessages\obj\Debug\ReadDeviceToCloudMessages.exe
+C:\Users\Sylvester\documents\visual studio 2017\Projects\IoTHubGetStarted\ReadDeviceToCloudMessages\obj\Debug\ReadDeviceToCloudMessages.pdb
+F:\IoTHubGetStarted\ReadDeviceToCloudMessages\bin\Debug\ReadDeviceToCloudMessages.exe.config
+F:\IoTHubGetStarted\ReadDeviceToCloudMessages\bin\Debug\ReadDeviceToCloudMessages.exe
+F:\IoTHubGetStarted\ReadDeviceToCloudMessages\bin\Debug\ReadDeviceToCloudMessages.pdb
+F:\IoTHubGetStarted\ReadDeviceToCloudMessages\bin\Debug\Microsoft.ServiceBus.dll
+F:\IoTHubGetStarted\ReadDeviceToCloudMessages\bin\Debug\Microsoft.ServiceBus.xml
+F:\IoTHubGetStarted\ReadDeviceToCloudMessages\obj\Debug\ReadDeviceToCloudMessages.csprojResolveAssemblyReference.cache
+F:\IoTHubGetStarted\ReadDeviceToCloudMessages\obj\Debug\ReadDeviceToCloudMessages.exe
+F:\IoTHubGetStarted\ReadDeviceToCloudMessages\obj\Debug\ReadDeviceToCloudMessages.pdb

@@ -1,0 +1,12 @@
+F:\IoTHubGetStarted\ReadDeviceToCloudMessages\bin\Release\ReadDeviceToCloudMessages.exe.config
+F:\IoTHubGetStarted\ReadDeviceToCloudMessages\bin\Release\ReadDeviceToCloudMessages.exe
+F:\IoTHubGetStarted\ReadDeviceToCloudMessages\bin\Release\ReadDeviceToCloudMessages.pdb
+F:\IoTHubGetStarted\ReadDeviceToCloudMessages\bin\Release\Microsoft.ServiceBus.dll
+F:\IoTHubGetStarted\ReadDeviceToCloudMessages\bin\Release\Microsoft.ServiceBus.xml
+F:\IoTHubGetStarted\ReadDeviceToCloudMessages\obj\Release\ReadDeviceToCloudMessages.exe
+F:\IoTHubGetStarted\ReadDeviceToCloudMessages\obj\Release\ReadDeviceToCloudMessages.pdb
+F:\IoTHubGetStarted\ReadDeviceToCloudMessages\bin\Release\ReadDeviceToCloudMessages.exe.manifest
+F:\IoTHubGetStarted\ReadDeviceToCloudMessages\bin\Release\ReadDeviceToCloudMessages.application
+F:\IoTHubGetStarted\ReadDeviceToCloudMessages\obj\Release\ReadDeviceToCloudMessages.csprojResolveAssemblyReference.cache
+F:\IoTHubGetStarted\ReadDeviceToCloudMessages\obj\Release\ReadDeviceToCloudMessages.exe.manifest
+F:\IoTHubGetStarted\ReadDeviceToCloudMessages\obj\Release\ReadDeviceToCloudMessages.application
